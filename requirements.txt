@@ -1,4 +1,4 @@
+tensorflow-cpu
 gradio
-tensorflow
 numpy
 pickle-mixin
